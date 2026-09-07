@@ -1,0 +1,22 @@
+# Python
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# SQLite database
+**/route53.db
+
+# Next.js
+**/node_modules/
+**/.next/
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
